@@ -5315,13 +5315,14 @@ h6 {
   .feature-box-1 .icon {
     width: 80px;
     height: 80px;
-    line-height: 80px;
+    line-height: 72px;
     text-align: center;
     border-radius: 50%;
     border: 2px dotted #d61a5c;
     color: #d61a5c;
     font-size: 32px;
-    margin-bottom: 22px; }
+    margin-bottom: 22px;
+    }
   .feature-box-1 h5 {
     color: #454545;
     font-weight: 500;
