@@ -5575,6 +5575,6 @@ h6 {
 /*----------------------------------
 * error page
 ----------------------------------*/
-#error {margin-top:50px;}
+.error {padding-top:100px;}
 
 /*# sourceMappingURL=master.css.map */
