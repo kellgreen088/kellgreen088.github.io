@@ -5547,7 +5547,10 @@ h6 {
 
 .contact-info {
   background: #ffffff;
-  padding: 20px; }
+  padding: 20px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  }
   .contact-info:not(:first-child) {
     margin-top: 20px; }
   .contact-info .icon {
@@ -5558,8 +5561,9 @@ h6 {
     color: #ffffff;
     background: #d61a5c;
     font-size: 19px;
-    line-height: 40px;
-    margin-right: 20px; }
+    line-height: 45px;
+    margin-right: 20px;
+    }
   .contact-info .media-body h6 {
     font-size: 15px;
     font-weight: 500;
