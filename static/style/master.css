@@ -525,7 +525,7 @@ h6 {
     .header-dark.header-transparent {
       background: rgba(255,255,255,0.75); }
       .fixed-header .header-dark.header-transparent {
-        background: #ffffff; }
+        background: rgba(255,255,255,0.75); }
     .header-dark .navbar-brand {
       font-weight: 600;
       font-size: 24px;
