@@ -86,7 +86,10 @@ Table of contents
   .m-btn.m-btn-t-theme {
     background: transparent;
     color: #d61a5c;
-    border-color: #d61a5c; }
+    border-color: #d61a5c;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    }
     .m-btn.m-btn-t-theme:hover {
       background: #d61a5c;
       border-color: #d61a5c;
@@ -122,6 +125,7 @@ Table of contents
       background: #ffffff;
       border-color: #ffffff;
       color: #454545; }
+  .social-top {margin-top:30px;}
 
 /* Icon
 ----------------*/
