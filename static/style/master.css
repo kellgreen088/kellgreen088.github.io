@@ -730,6 +730,8 @@ h6 {
   margin-top: -100px;
   position: relative;
   z-index: 1; }
+  
+.top {padding-top:150px;}
 
 /* ----------------------
 *	Box shadow
