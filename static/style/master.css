@@ -234,6 +234,10 @@ mark {
   padding: 0;
   color: currentColor; }
 
+.ls0 {
+  letter-spacing:0;
+}
+
 /* ----------------------
 *	Loading
 ---------------------------*/
