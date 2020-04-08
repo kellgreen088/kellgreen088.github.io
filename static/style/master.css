@@ -601,6 +601,7 @@ h6 {
       font-size: 24px;
       text-transform: uppercase;
       color: #454545; }
+	.header-nav .navbar-brand img {height:35px;}
     .header-nav.header-white .navbar-brand {
       color: #ffffff; }
       .fixed-header .header-nav.header-white .navbar-brand {
