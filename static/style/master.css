@@ -5431,7 +5431,8 @@ h6 {
       -o-transition: ease all 0.35s;
       -webkit-transition: ease all 0.35s;
       transition: ease all 0.35s;
-      left: -25px; }
+      left: -25px;
+      text-align:center; }
       @media (max-width: 991px) {
         .portfolio-box-01 .portfolio-info h5 {
           font-size: 20px; } }
